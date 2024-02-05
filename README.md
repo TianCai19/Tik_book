@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 运行应用：
 
-```bash
+```
 python tik_book.py
 ```
 ## 贡献
