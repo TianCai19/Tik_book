@@ -28,11 +28,11 @@ git clone
 ```bash
 cd tik_book
 pip install -r requirements.txt
-```bash
+```
 
 运行应用：
 
-```
+```bash 
 python tik_book.py
 ```
 ## 贡献
