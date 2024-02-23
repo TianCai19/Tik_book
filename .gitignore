@@ -31,5 +31,12 @@ env/
 .DS_Store
 Thumbs.db
 
-# Ignore contents of the book folder
-/book/*
+# igoner book folder
+books/
+
+
+flagged/
+
+
+
+

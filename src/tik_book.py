@@ -39,7 +39,7 @@ def on_next_button_click():
 
 # Load EPUB
 # Get the path of the first EPUB file in the 'books' folder
-books_folder = 'books'
+books_folder = '../books'
 epub_files = [file for file in os.listdir(books_folder) if file.endswith('.epub')]
 if epub_files:
     epub_path = os.path.join(books_folder, epub_files[0])
