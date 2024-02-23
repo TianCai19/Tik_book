@@ -33,7 +33,7 @@ pip install -r requirements.txt
 运行应用：
 
 ```bash 
-python tik_book.py
+python -m src.main
 ```
 ## 贡献
 我们欢迎所有形式的贡献，无论是功能请求、反馈、还是代码提交！请通过提交Issue或拉取请求来贡献。
