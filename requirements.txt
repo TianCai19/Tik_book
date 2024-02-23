@@ -1,4 +1,6 @@
 gradio
 ebooklib
 beautifulsoup4
+diskcache
+
 # pip install -r requirements.txt 
